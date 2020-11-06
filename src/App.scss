@@ -1,0 +1,17 @@
+@import './scss/index.scss';
+
+
+
+.App {
+  text-align: center;
+  background-color: $primary-bkg;
+  h1{
+    color:$primary-color;
+  }
+  span{
+    color:$primary-light-color;
+  }
+  h2{
+    color:$primary-dark-color;
+  }
+}
